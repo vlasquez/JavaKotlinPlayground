@@ -8,7 +8,9 @@ public class PlaygroundJava {
                 { 2, 0, 3, 3 },
 
         };
-       System.out.println(matrixElementsSum(multi));
+       //System.out.println(matrixElementsSum(multi));
+        System.out.println(champernowneDigit(11));
+        System.out.println(hailstoneSequence(27));
     }
 
     public static int matrixElementsSum(int[][] matrix) {
@@ -26,5 +28,33 @@ public class PlaygroundJava {
             }
         }
         return sum;
+    }
+
+   static int champernowneDigit(int n) {
+        String number = "";
+
+        for(int i = 1; i<=200 ; ++i){
+            number = number + String.valueOf(i);
+
+        }
+        String s = number.substring(n - 1,n);
+        return Integer.parseInt(s);
+    }
+
+   static int hailstoneSequence(int n) {
+       int steps = 0;
+       do{
+           if(n%2 ==0){
+               n = n/2;
+               steps+=1;
+
+           }
+           else{
+               n = 3*n+1;
+               steps= steps + 1;
+           }
+       }
+       while(n!=1);
+       return steps;
     }
 }
