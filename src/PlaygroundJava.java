@@ -9,8 +9,10 @@ public class PlaygroundJava {
 
         };
        //System.out.println(matrixElementsSum(multi));
-        System.out.println(champernowneDigit(11));
-        System.out.println(hailstoneSequence(27));
+        //System.out.println(champernowneDigit(11));
+        //System.out.println(hailstoneSequence(27));
+        String[] mock = {"aba","aa","ad","vcd","aba"};
+        allLongestStrings(mock);
     }
 
     public static int matrixElementsSum(int[][] matrix) {
@@ -57,4 +59,9 @@ public class PlaygroundJava {
        while(n!=1);
        return steps;
     }
+
+    static String[] allLongestStrings(String[] inputArray) {
+        String[] result = new String[];
+    }
+
 }
