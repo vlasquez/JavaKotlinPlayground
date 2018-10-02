@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.List;
+
 public class PlaygroundJava {
     public static void main(String [] args)
     {
@@ -12,7 +15,7 @@ public class PlaygroundJava {
         //System.out.println(champernowneDigit(11));
         //System.out.println(hailstoneSequence(27));
         String[] mock = {"aba","aa","ad","vcd","aba"};
-        allLongestStrings(mock);
+       allLongestStrings(mock);
     }
 
     public static int matrixElementsSum(int[][] matrix) {
@@ -59,9 +62,23 @@ public class PlaygroundJava {
        while(n!=1);
        return steps;
     }
+    /**         String[] mock = {"aba","aa","ad","vcd","aba"}; **/
+     static String[] allLongestStrings(String[] inputArray) {
+         List<String> result = new ArrayList<String>();
+        int highest = inputArray[0].length();
+        int rIndx = 0;
+        for(int i = 0 ; i<inputArray.length ; ++i){
+            if(inputArray[i].length()>=highest){
+                highest = inputArray[i].length();
+            }
+        }
+        for(int j = 0; j<inputArray.length;j++){
+            result.add(rIndx, inputArray[j]);
+            System.out.println(result.get(rIndx));
+            rIndx++;
+        }
+        return result.toArray(new String[0]);
 
-    static String[] allLongestStrings(String[] inputArray) {
-        String[] result = new String[];
     }
 
 }
