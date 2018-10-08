@@ -80,5 +80,7 @@ public class PlaygroundJava {
         return result.toArray(new String[0]);
 
     }
-
+  public static void printLine(Object data){
+       System.out.println(data);
+  }
 }
