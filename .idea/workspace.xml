@@ -2,8 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5fe85a8-121e-46b0-a00d-115182e9283a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ISIPv4Address.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AvoidObstacles.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AddBorder.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArcadeMode/exploring_the_waters/AddBorder.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AlternatingSums.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArcadeMode/exploring_the_waters/AlternatingSums.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AreSimilar.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArcadeMode/exploring_the_waters/AreSimilar.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayChange.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArcadeMode/exploring_the_waters/ArrayChange.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayChangeJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArcadeMode/exploring_the_waters/ArrayChangeJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CommonCharacterCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArcadeMode/smooth_sailing/CommonCharacterCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IsLucky.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArcadeMode/smooth_sailing/IsLucky.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PalindromeRearranging.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArcadeMode/exploring_the_waters/PalindromeRearranging.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReverseParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArcadeMode/smooth_sailing/ReverseParentheses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReverseParenthesesKt.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArcadeMode/smooth_sailing/ReverseParenthesesKt.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SortByHeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArcadeMode/smooth_sailing/SortByHeight.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -84,56 +96,20 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="13" />
-          <entry key="kt" value="15" />
+          <entry key="java" value="18" />
+          <entry key="kt" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="13" />
-          <entry key="Kotlin" value="15" />
+          <entry key="JAVA" value="18" />
+          <entry key="Kotlin" value="17" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/halvingSum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="5" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ArrayChange.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="20" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ArrayChangeJava.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PalindromeRearranging.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="7" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/EquallyStrong.kt">
           <provider selected="true" editor-type-id="text-editor">
@@ -152,11 +128,65 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ISIPv4Address.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+            <state relative-caret-position="105">
+              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AvoidObstacles.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="20" selection-start-column="20" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ArcadeMode/smooth_sailing/CommonCharacterCount.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ArcadeMode/exploring_the_waters/ArrayChangeJava.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ArcadeMode/smooth_sailing/IsLucky.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ArcadeMode/smooth_sailing/SortByHeight.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ArcadeMode/smooth_sailing/ReverseParentheses.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -165,25 +195,7 @@
         <entry file="file://$PROJECT_DIR$/src/CircleOfNumbers.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CommonCharacterCount.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" selection-start-line="4" selection-end-line="7" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ReverseParenthesesKt.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="3" selection-start-line="2" selection-start-column="2" selection-end-line="20" selection-end-column="3" />
+              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -198,6 +210,12 @@
         <option value="Kotlin Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>centur</find>
+      <find>adjacent</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -261,6 +279,12 @@
               <item name="JavaKotlinPlayground" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JavaKotlinPlayground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaKotlinPlayground" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ArcadeMode" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -268,13 +292,22 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540515078553" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540570395659" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
     <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
       <recent name="" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="Tournaments" />
+      <recent name="ArcadeMode.island_of_knowledge" />
+      <recent name="ArcadeMode.exploring_the_waters" />
+      <recent name="ArcadeMode.smooth_sailing" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Main" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -396,9 +429,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="569" y="23" width="1351" height="1057" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20320855" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20320855" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -408,7 +440,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32908705" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32908705" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39915073" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -452,13 +484,13 @@
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/CommonCharacterCount.java</url>
+          <url>file://$PROJECT_DIR$/src/ArcadeMode/smooth_sailing/CommonCharacterCount.java</url>
           <line>12</line>
           <properties />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/SortByHeight.java</url>
+          <url>file://$PROJECT_DIR$/src/ArcadeMode/smooth_sailing/SortByHeight.java</url>
           <line>13</line>
           <properties />
           <option name="timeStamp" value="14" />
@@ -470,19 +502,19 @@
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ReverseParentheses.java</url>
+          <url>file://$PROJECT_DIR$/src/ArcadeMode/smooth_sailing/ReverseParentheses.java</url>
           <line>8</line>
           <properties />
           <option name="timeStamp" value="35" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ReverseParentheses.java</url>
+          <url>file://$PROJECT_DIR$/src/ArcadeMode/smooth_sailing/ReverseParentheses.java</url>
           <line>21</line>
           <properties />
           <option name="timeStamp" value="37" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ReverseParentheses.java</url>
+          <url>file://$PROJECT_DIR$/src/ArcadeMode/smooth_sailing/ReverseParentheses.java</url>
           <line>26</line>
           <properties />
           <option name="timeStamp" value="38" />
@@ -494,31 +526,31 @@
           <option name="timeStamp" value="46" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/ReverseParenthesesKt.kt</url>
+          <url>file://$PROJECT_DIR$/src/ArcadeMode/smooth_sailing/ReverseParenthesesKt.kt</url>
           <line>18</line>
           <properties />
           <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/ReverseParenthesesKt.kt</url>
+          <url>file://$PROJECT_DIR$/src/ArcadeMode/smooth_sailing/ReverseParenthesesKt.kt</url>
           <line>15</line>
           <properties />
           <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/AlternatingSums.kt</url>
+          <url>file://$PROJECT_DIR$/src/ArcadeMode/exploring_the_waters/AlternatingSums.kt</url>
           <line>22</line>
           <properties />
           <option name="timeStamp" value="39" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/AddBorder.kt</url>
+          <url>file://$PROJECT_DIR$/src/ArcadeMode/exploring_the_waters/AddBorder.kt</url>
           <line>16</line>
           <properties />
           <option name="timeStamp" value="41" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/PalindromeRearranging.kt</url>
+          <url>file://$PROJECT_DIR$/src/ArcadeMode/exploring_the_waters/PalindromeRearranging.kt</url>
           <line>21</line>
           <properties />
           <option name="timeStamp" value="48" />
@@ -528,12 +560,6 @@
           <line>12</line>
           <properties />
           <option name="timeStamp" value="52" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/ISIPv4Address.kt</url>
-          <line>13</line>
-          <properties />
-          <option name="timeStamp" value="54" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -599,13 +625,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/PlaygroundJava.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1215">
@@ -613,20 +632,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IsLucky.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="5" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SortByHeight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="6" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -647,29 +652,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ReverseParentheses.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="7" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="31" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/asd.kt" />
-    <entry file="file://$PROJECT_DIR$/src/AlternatingSums.kt">
+    <entry file="file://$PROJECT_DIR$/src/ArcadeMode/exploring_the_waters/AlternatingSums.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AddBorder.kt">
+    <entry file="file://$PROJECT_DIR$/src/ArcadeMode/exploring_the_waters/AddBorder.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="5" selection-start-line="1" selection-start-column="2" selection-end-line="6" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AreSimilar.kt">
+    <entry file="file://$PROJECT_DIR$/src/ArcadeMode/exploring_the_waters/AreSimilar.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
@@ -690,31 +688,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CommonCharacterCount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="7" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ReverseParenthesesKt.kt">
+    <entry file="file://$PROJECT_DIR$/src/ArcadeMode/smooth_sailing/ReverseParenthesesKt.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="3" selection-start-line="2" selection-start-column="2" selection-end-line="20" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ArrayChange.kt">
+    <entry file="file://$PROJECT_DIR$/src/ArcadeMode/exploring_the_waters/ArrayChange.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" selection-start-line="1" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ArrayChangeJava.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -725,7 +709,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PalindromeRearranging.kt">
+    <entry file="file://$PROJECT_DIR$/src/ArcadeMode/exploring_the_waters/PalindromeRearranging.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" selection-start-line="1" selection-end-line="7" selection-end-column="5" />
@@ -735,7 +719,7 @@
     <entry file="file://$PROJECT_DIR$/src/CircleOfNumbers.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -755,8 +739,57 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ISIPv4Address.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        <state relative-caret-position="105">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AvoidObstacles.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArcadeMode/smooth_sailing/CommonCharacterCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArcadeMode/smooth_sailing/IsLucky.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArcadeMode/smooth_sailing/SortByHeight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArcadeMode/smooth_sailing/ReverseParentheses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArcadeMode/exploring_the_waters/ArrayChangeJava.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
