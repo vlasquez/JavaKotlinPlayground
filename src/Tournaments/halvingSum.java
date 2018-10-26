@@ -1,3 +1,7 @@
+package Tournaments;
+
+import Main.PlaygroundJava;
+
 public class halvingSum {
 
   public static void main(String args[]){
