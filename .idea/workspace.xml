@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5fe85a8-121e-46b0-a00d-115182e9283a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArcadeMode/island_of_knowledge/AvoidObstaclesJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tournaments/CountIncreasingSequences.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tournaments/CreateAnagram.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/island_of_knowledge/AvoidObstacles$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/island_of_knowledge/AvoidObstacles$Companion.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/island_of_knowledge/AvoidObstacles.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/island_of_knowledge/AvoidObstacles.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArcadeMode/island_of_knowledge/AvoidObstacles.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArcadeMode/island_of_knowledge/AvoidObstacles.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tournaments/halvingSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tournaments/halvingSum.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,51 +61,70 @@
     <session id="847868704">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.4" value="3" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.6" value="3" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="2692" />
-          <entry key="kt" value="3492" />
+          <entry key="kt" value="4493" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="2692" />
-          <entry key="Kotlin" value="3492" />
+          <entry key="Kotlin" value="4493" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="java" value="23" />
-          <entry key="kt" value="21" />
+          <entry key="kt" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JAVA" value="23" />
-          <entry key="Kotlin" value="21" />
+          <entry key="Kotlin" value="23" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ArcadeMode/island_of_knowledge/AvoidObstacles.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
               <caret line="14" column="53" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Tournaments/CountIncreasingSequences.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="12" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Tournaments/CreateAnagram.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="45" column="18" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="45" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -122,8 +141,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main/Main.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="3" selection-end-column="1" />
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -132,7 +151,7 @@
         <entry file="file://$PROJECT_DIR$/src/ArcadeMode/island_of_knowledge/EquallyStrong.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" column="35" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="7" selection-end-column="35" />
+              <caret line="7" column="35" selection-start-line="6" selection-start-column="3" selection-end-line="7" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -143,8 +162,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
-        <option value="Kotlin Class" />
         <option value="Class" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -195,13 +214,15 @@
         <option value="$PROJECT_DIR$/src/ArcadeMode/smooth_sailing/SortByHeight.java" />
         <option value="$PROJECT_DIR$/src/ArcadeMode/island_of_knowledge/AvoidObstaclesJava.java" />
         <option value="$PROJECT_DIR$/src/ArcadeMode/island_of_knowledge/AvoidObstacles.kt" />
+        <option value="$PROJECT_DIR$/src/Tournaments/CountIncreasingSequences.kt" />
+        <option value="$PROJECT_DIR$/src/Tournaments/CreateAnagram.kt" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="569" />
+    <option name="x" value="571" />
     <option name="y" value="23" />
-    <option name="width" value="1351" />
+    <option name="width" value="1349" />
     <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -212,8 +233,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -230,27 +251,13 @@
               <item name="JavaKotlinPlayground" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaKotlinPlayground" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ArcadeMode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaKotlinPlayground" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaKotlinPlayground" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ArcadeMode" type="462c0819:PsiDirectoryNode" />
-              <item name="exploring_the_waters" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaKotlinPlayground" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaKotlinPlayground" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ArcadeMode" type="462c0819:PsiDirectoryNode" />
-              <item name="island_of_knowledge" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaKotlinPlayground" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaKotlinPlayground" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaKotlinPlayground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaKotlinPlayground" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Tournaments" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -259,7 +266,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540576109172" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540855453862" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
@@ -289,7 +296,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.ArcadeMode.island_of_knowledge.AvoidObstacles">
+  <component name="RunManager" selected="Kotlin.Tournaments.CreateAnagram">
     <configuration name="ArcadeMode.island_of_knowledge.AvoidObstacles" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Playground" />
       <option name="VM_PARAMETERS" />
@@ -316,32 +323,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CircleOfNumbers" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Playground" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="CircleOfNumbers" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EquallyStrong" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Playground" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="EquallyStrong" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ISIPv4Address" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Playground" />
       <option name="VM_PARAMETERS" />
@@ -355,20 +336,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Tournaments.CountIncreasingSequences" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Playground" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Tournaments.CountIncreasingSequences" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tournaments.CreateAnagram" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Playground" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Tournaments.CreateAnagram" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Kotlin.EquallyStrong" />
-      <item itemvalue="Kotlin.CircleOfNumbers" />
       <item itemvalue="Kotlin.ArrayMaximalAdjacentDiference" />
       <item itemvalue="Kotlin.ISIPv4Address" />
       <item itemvalue="Kotlin.ArcadeMode.island_of_knowledge.AvoidObstacles" />
+      <item itemvalue="Kotlin.Tournaments.CountIncreasingSequences" />
+      <item itemvalue="Kotlin.Tournaments.CreateAnagram" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Tournaments.CreateAnagram" />
+        <item itemvalue="Kotlin.Tournaments.CountIncreasingSequences" />
         <item itemvalue="Kotlin.ArcadeMode.island_of_knowledge.AvoidObstacles" />
         <item itemvalue="Kotlin.ISIPv4Address" />
         <item itemvalue="Kotlin.ArrayMaximalAdjacentDiference" />
-        <item itemvalue="Kotlin.CircleOfNumbers" />
-        <item itemvalue="Kotlin.EquallyStrong" />
       </list>
     </recent_temporary>
   </component>
@@ -395,10 +402,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="569" y="23" width="1351" height="1057" extended-state="0" />
+    <frame x="571" y="23" width="1349" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20320855" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21346596" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -543,6 +550,24 @@
           </properties>
           <option name="timeStamp" value="59" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/Tournaments/CountIncreasingSequences.kt</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/Tournaments/CountIncreasingSequences.kt</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/Tournaments/CreateAnagram.kt</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -602,9 +627,7 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/SortByHeight.kt" />
-    <entry file="file://$PROJECT_DIR$/../../pepperoni-pizza-android/proyect/Domicilios3.0/app/src/main/java/com/clickdelivery/android/domiciliosbogota/ui/view/common/components_drawers/SelectionDrawer.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../../pepperoni-pizza-android/proyect/Domicilios3.0/app/src/main/java/com/clickdelivery/android/domiciliosbogota/ui/view/common/components_drawers/SelectionDrawer.java" />
     <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/common/kotlin/text/Strings.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -655,13 +678,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CircleOfNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CircleOfNumbers.java" />
     <entry file="file://$PROJECT_DIR$/src/ArcadeMode/exploring_the_waters/PalindromeRearranging.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -759,24 +776,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main/Main.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ArcadeMode/island_of_knowledge/EquallyStrong.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="35" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="7" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/common/generated/_Collections.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="1376" column="34" selection-start-line="1376" selection-start-column="34" selection-end-line="1376" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArcadeMode/island_of_knowledge/AvoidObstacles.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="53" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tournaments/CountIncreasingSequences.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="12" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -787,10 +804,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ArcadeMode/island_of_knowledge/AvoidObstacles.kt">
+    <entry file="file://$PROJECT_DIR$/src/Main/Main.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="53" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="53" />
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArcadeMode/island_of_knowledge/EquallyStrong.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="35" selection-start-line="6" selection-start-column="3" selection-end-line="7" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tournaments/CreateAnagram.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="45" column="18" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="45" selection-end-column="18" />
         </state>
       </provider>
     </entry>
