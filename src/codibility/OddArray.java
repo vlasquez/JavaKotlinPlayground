@@ -1,7 +1,7 @@
 package codibility;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.HashMap;
+import java.util.Map;
 
 public class OddArray {
   public static void main(String[] args) {
@@ -13,18 +13,24 @@ public class OddArray {
     System.out.println(solution(binary));
   }
 
-  public static int solution(int[] n) {
-    List<Integer> l2 = new ArrayList<>();
-    
-    for(int element:n) {
-      if(!l2.contains(element)){
-        l2.add(element);
-      }
-      else{
-        l2.remove((Object)element);
-      }
+  public static long solution(int[] n) {
+    if(n.length==1){
+      return n[0];
     }
-    return l2.get(0);
-  }
+    int elem = 0;
+
+    for (int i = 0; i < n.length; i++) {
+      elem = elem ^ n[i];
+    }
+    return elem;
+   }
+   /*
+   		int elem = 0;
+
+		for (int i = 0; i < A.length; i++) {
+			elem ^= A[i];
+		}
+		return elem;
+    */
 }
 
