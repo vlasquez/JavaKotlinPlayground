@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5fe85a8-121e-46b0-a00d-115182e9283a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CodilityTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codibility/BinaryGap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codibility/OddArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Playground/Tournaments/StringsConstruction$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/Tournaments/StringsConstruction$Companion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tournaments/StringsConstruction.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tournaments/StringsConstruction.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodilityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codibility/CodilityTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -104,23 +100,28 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-2008386080">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="432" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Tournaments/StringsConstruction.kt">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/codibility/CodilityTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CodilityTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+            <state relative-caret-position="610">
+              <caret line="48" column="43" selection-start-line="48" selection-start-column="43" selection-end-line="48" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -128,7 +129,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/codibility/OddArray.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
@@ -179,7 +180,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main/PlaygroundJava.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
+            <state relative-caret-position="90">
               <caret line="6" selection-start-line="6" selection-end-line="20" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -279,11 +280,13 @@
         <option value="$PROJECT_DIR$/src/CodilityTest.java" />
         <option value="$PROJECT_DIR$/src/codibility/BinaryGap.java" />
         <option value="$PROJECT_DIR$/src/codibility/OddArray.java" />
+        <option value="$PROJECT_DIR$/src/codibility/CodilityTest.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1440" />
+    <option name="y" value="-157" />
     <option name="width" value="1920" />
     <option name="height" value="1057" />
   </component>
@@ -312,19 +315,6 @@
               <item name="JavaKotlinPlayground" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaKotlinPlayground" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ArcadeMode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaKotlinPlayground" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaKotlinPlayground" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ArcadeMode" type="462c0819:PsiDirectoryNode" />
-              <item name="smooth_sailing" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaKotlinPlayground" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaKotlinPlayground" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="codibility" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -335,7 +325,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547587394127" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547827093084" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
@@ -365,7 +355,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.OddArray">
+  <component name="RunManager" selected="Application.CodilityTest">
     <configuration name="BinaryGap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codibility.BinaryGap" />
       <module name="Playground" />
@@ -380,7 +370,7 @@
       </method>
     </configuration>
     <configuration name="CodilityTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodilityTest" />
+      <option name="MAIN_CLASS_NAME" value="codibility.CodilityTest" />
       <module name="Playground" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -434,10 +424,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CodilityTest" />
         <item itemvalue="Application.OddArray" />
         <item itemvalue="Application.CommonCharacterCount" />
         <item itemvalue="Application.BinaryGap" />
-        <item itemvalue="Application.CodilityTest" />
         <item itemvalue="Kotlin.Tournaments.StringsConstruction" />
       </list>
     </recent_temporary>
@@ -465,10 +455,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="1057" extended-state="6" />
-    <editor active="true" />
+    <frame x="1440" y="-157" width="1920" height="1057" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15654951" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15814696" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -478,7 +467,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32908705" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32908705" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39915073" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -580,6 +569,12 @@
           <line>18</line>
           <properties />
           <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/codibility/CodilityTest.java</url>
+          <line>58</line>
+          <properties />
+          <option name="timeStamp" value="72" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/ArcadeMode/smooth_sailing/ReverseParenthesesKt.kt</url>
@@ -909,10 +904,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CodilityTest.java">
+    <entry file="file://$PROJECT_DIR$/src/codibility/CodilityTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+        <state relative-caret-position="610">
+          <caret line="48" column="43" selection-start-line="48" selection-start-column="43" selection-end-line="48" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codibility/OddArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -949,7 +954,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main/PlaygroundJava.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="90">
           <caret line="6" selection-start-line="6" selection-end-line="20" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -968,16 +973,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="35" selection-start-line="6" selection-start-column="3" selection-end-line="7" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/codibility/OddArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
