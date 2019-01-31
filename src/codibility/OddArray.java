@@ -1,8 +1,5 @@
 package codibility;
 
-import java.util.HashMap;
-import java.util.Map;
-
 public class OddArray {
   public static void main(String[] args) {
 
