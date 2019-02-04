@@ -15,12 +15,15 @@ class ReverseParenthesesKt {
 
       val start = s.lastIndexOf("(")+1
       val end = s.indexOf(")")
-      var stringInParentheses: String?
+      var stringInParentheses=""
       if (start != -1 && end != -1){
-        stringInParentheses = s.substring(start,end)
+        stringInParentheses = s.removeRange(start,start)
+        stringInParentheses = s.removeRange(end,start)
       }
-
-      return s
+      else{
+        return stringInParentheses
+      }
+      return reverseParentheses(stringInParentheses)
     }
   }
 

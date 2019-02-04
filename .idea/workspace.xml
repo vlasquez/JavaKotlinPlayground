@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5fe85a8-121e-46b0-a00d-115182e9283a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/OrderArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codibility/CyclicRotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArcadeMode/island_of_knowledge/BoxBlur.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Playground/codibility/OddArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/codibility/OddArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MoneyChange.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codibility/OddArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codibility/OddArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/smooth_sailing/ReverseParenthesesKt$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/smooth_sailing/ReverseParenthesesKt$Companion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArcadeMode/smooth_sailing/ReverseParenthesesKt.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArcadeMode/smooth_sailing/ReverseParenthesesKt.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OrderArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrderArray.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,7 +16,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/codibility/OddArray.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -30,17 +29,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ArcadeMode/smooth_sailing/ReverseParenthesesKt.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+            <state relative-caret-position="300">
+              <caret line="20" column="53" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="53" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/OrderArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="540">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -48,11 +47,33 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/codibility/CyclicRotation.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
               <caret line="9" column="50" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ArcadeMode/smooth_sailing/ReverseParentheses.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="20" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ArcadeMode/island_of_knowledge/BoxBlur.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#607#616#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -79,13 +100,14 @@
         <option value="$PROJECT_DIR$/src/CommonCharacterCount.java" />
         <option value="$PROJECT_DIR$/src/IsLucky.java" />
         <option value="$PROJECT_DIR$/src/codibility/OddArray.java" />
-        <option value="$PROJECT_DIR$/src/OrderArray.java" />
         <option value="$PROJECT_DIR$/src/codibility/CyclicRotation.java" />
+        <option value="$PROJECT_DIR$/src/ArcadeMode/smooth_sailing/ReverseParenthesesKt.kt" />
+        <option value="$PROJECT_DIR$/src/ArcadeMode/island_of_knowledge/BoxBlur.java" />
+        <option value="$PROJECT_DIR$/src/OrderArray.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1920" />
     <option name="y" value="23" />
     <option name="width" value="1920" />
     <option name="height" value="1057" />
@@ -96,8 +118,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -114,7 +136,7 @@
               <item name="JavaKotlinPlayground" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaKotlinPlayground" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="codibility" type="462c0819:PsiDirectoryNode" />
+              <item name="ArcadeMode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -123,7 +145,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548950872363" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549039465407" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
@@ -139,7 +161,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CyclicRotation">
+  <component name="RunManager" selected="Application.OrderArray">
     <configuration name="CommonCharacterCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CommonCharacterCount" />
       <module name="Playground" />
@@ -174,27 +196,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PlaygroundJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PlaygroundJava" />
+    <configuration name="ArcadeMode.smooth_sailing.ReverseParenthesesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Playground" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ArcadeMode.smooth_sailing.ReverseParenthesesKt" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.PlaygroundJava" />
       <item itemvalue="Application.CommonCharacterCount" />
       <item itemvalue="Application.IsLucky" />
       <item itemvalue="Application.OrderArray" />
       <item itemvalue="Application.CyclicRotation" />
+      <item itemvalue="Kotlin.ArcadeMode.smooth_sailing.ReverseParenthesesKt" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CyclicRotation" />
         <item itemvalue="Application.OrderArray" />
+        <item itemvalue="Kotlin.ArcadeMode.smooth_sailing.ReverseParenthesesKt" />
+        <item itemvalue="Application.CyclicRotation" />
         <item itemvalue="Application.IsLucky" />
         <item itemvalue="Application.CommonCharacterCount" />
-        <item itemvalue="Application.PlaygroundJava" />
       </list>
     </recent_temporary>
   </component>
@@ -221,9 +249,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="23" width="1920" height="1057" extended-state="6" />
+    <frame x="0" y="23" width="1920" height="1057" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2550586" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -250,6 +278,7 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Maven" order="8" />
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
@@ -289,6 +318,18 @@
           <line>18</line>
           <properties />
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/OrderArray.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/ArcadeMode/smooth_sailing/ReverseParenthesesKt.kt</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -355,20 +396,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MoneyChange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ArcadeMode/smooth_sailing/ReverseParenthesesKt.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MoneyChange.java" />
     <entry file="file://$PROJECT_DIR$/src/codibility/OddArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -376,20 +404,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/OrderArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/codibility/CyclicRotation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="50" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArcadeMode/smooth_sailing/ReverseParentheses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArcadeMode/smooth_sailing/ReverseParenthesesKt.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="53" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArcadeMode/island_of_knowledge/BoxBlur.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#607#616#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OrderArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
