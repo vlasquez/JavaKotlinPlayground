@@ -1,231 +1,200 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e5fe85a8-121e-46b0-a00d-115182e9283a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArcadeMode/island_of_knowledge/BoxBlur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArcadeMode/island_of_knowledge/BoxBlur.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArcadeMode/island_of_knowledge/minesWeeper.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArcadeMode/rains_of_reason/ArrayReplace.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArcadeMode/rains_of_reason/EvenDigitsOnly.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArcadeMode/rains_of_reason/VariableName.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArcadeMode/rains_of_reason/alphabeticShift.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/exploring_the_waters/AddBorder$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/exploring_the_waters/AddBorder$Companion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/exploring_the_waters/AddBorder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/exploring_the_waters/AddBorder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/exploring_the_waters/AlternatingSums$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/exploring_the_waters/AlternatingSums$Companion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/exploring_the_waters/AlternatingSums.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/exploring_the_waters/AlternatingSums.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/exploring_the_waters/AreSimilar$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/exploring_the_waters/AreSimilar$Companion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/exploring_the_waters/AreSimilar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/exploring_the_waters/AreSimilar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/exploring_the_waters/ArrayChange$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/exploring_the_waters/ArrayChange$Companion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/exploring_the_waters/ArrayChange.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/exploring_the_waters/ArrayChange.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/exploring_the_waters/PalindromeRearranging$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/exploring_the_waters/PalindromeRearranging$Companion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/exploring_the_waters/PalindromeRearranging.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/exploring_the_waters/PalindromeRearranging.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/island_of_knowledge/ArrayMaximalAdjacentDiference$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/island_of_knowledge/ArrayMaximalAdjacentDiference$Companion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/island_of_knowledge/ArrayMaximalAdjacentDiference.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/island_of_knowledge/ArrayMaximalAdjacentDiference.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/island_of_knowledge/AvoidObstacles$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/island_of_knowledge/AvoidObstacles$Companion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/island_of_knowledge/AvoidObstacles.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/island_of_knowledge/AvoidObstacles.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/island_of_knowledge/EquallyStrong$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/island_of_knowledge/EquallyStrong$Companion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/island_of_knowledge/EquallyStrong.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/island_of_knowledge/EquallyStrong.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/island_of_knowledge/ISIPv4Address$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/island_of_knowledge/ISIPv4Address$Companion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/island_of_knowledge/ISIPv4Address.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/island_of_knowledge/ISIPv4Address.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/smooth_sailing/ReverseParenthesesKt$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/smooth_sailing/ReverseParenthesesKt$Companion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArcadeMode/smooth_sailing/ReverseParenthesesKt.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArcadeMode/smooth_sailing/ReverseParenthesesKt.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OrderArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrderArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/smooth_sailing/ReverseParenthesesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/smooth_sailing/ReverseParenthesesKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/InterviewPractice/FirstNotRepeatingCharacter$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/InterviewPractice/FirstNotRepeatingCharacter$Companion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/InterviewPractice/FirstNotRepeatingCharacter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/InterviewPractice/FirstNotRepeatingCharacter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/META-INF/Playground.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/META-INF/Playground.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/Main/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/Main/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/Tournaments/AlphabetSubsequence$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/Tournaments/AlphabetSubsequence$Companion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/Tournaments/AlphabetSubsequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/Tournaments/AlphabetSubsequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/Tournaments/CircleOfNumbers$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/Tournaments/CircleOfNumbers$Companion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/Tournaments/CircleOfNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/Tournaments/CircleOfNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/Tournaments/CountIncreasingSequences$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/Tournaments/CountIncreasingSequences$Companion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/Tournaments/CountIncreasingSequences.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/Tournaments/CountIncreasingSequences.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/Tournaments/CreateAnagram$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/Tournaments/CreateAnagram$Companion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/Tournaments/CreateAnagram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/Tournaments/CreateAnagram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/Tournaments/Playground$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/Tournaments/Playground$Companion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/Tournaments/Playground.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/Tournaments/Playground.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/Tournaments/SqrtSumOfSquares$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/Tournaments/SqrtSumOfSquares$Companion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/Tournaments/SqrtSumOfSquares.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/Tournaments/SqrtSumOfSquares.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/Tournaments/StringsConstruction$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/Tournaments/StringsConstruction$Companion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/Tournaments/StringsConstruction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/Tournaments/StringsConstruction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/Tournaments/SumUpDigits$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/Tournaments/SumUpDigits$Companion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/Tournaments/SumUpDigits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/Tournaments/SumUpDigits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/Tournaments/TelephoneGame$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/Tournaments/TelephoneGame$Companion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/Tournaments/TelephoneGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/Tournaments/TelephoneGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Main.kt" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/codibility/OddArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="10" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ArcadeMode/smooth_sailing/ReverseParenthesesKt.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="53" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/OrderArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="36" selection-start-line="36" selection-end-line="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/codibility/CyclicRotation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="50" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ArcadeMode/smooth_sailing/ReverseParentheses.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="20" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ArcadeMode/island_of_knowledge/BoxBlur.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#607#616#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Class" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/Main.kt" />
-        <option value="$PROJECT_DIR$/src/Playground.kt" />
-        <option value="$PROJECT_DIR$/src/PlaygroundJava.java" />
-        <option value="$PROJECT_DIR$/src/CommonCharacterCount.java" />
-        <option value="$PROJECT_DIR$/src/IsLucky.java" />
-        <option value="$PROJECT_DIR$/src/codibility/OddArray.java" />
-        <option value="$PROJECT_DIR$/src/codibility/CyclicRotation.java" />
-        <option value="$PROJECT_DIR$/src/ArcadeMode/smooth_sailing/ReverseParenthesesKt.kt" />
-        <option value="$PROJECT_DIR$/src/ArcadeMode/island_of_knowledge/BoxBlur.java" />
-        <option value="$PROJECT_DIR$/src/OrderArray.java" />
-      </list>
-    </option>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
-    <option name="width" value="1920" />
-    <option name="height" value="1057" />
+  <component name="ProjectId" id="1j4aUioHwxHobCSbcrcN4y1J9mA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="JavaKotlinPlayground" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaKotlinPlayground" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaKotlinPlayground" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaKotlinPlayground" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaKotlinPlayground" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaKotlinPlayground" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ArcadeMode" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549039465407" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.OrderArray">
-    <configuration name="CommonCharacterCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CommonCharacterCount" />
-      <module name="Playground" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CyclicRotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codibility.CyclicRotation" />
-      <module name="Playground" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codibility.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IsLucky" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IsLucky" />
-      <module name="Playground" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OrderArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OrderArray" />
-      <module name="Playground" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArcadeMode.smooth_sailing.ReverseParenthesesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.AlphabeticShiftKt">
+    <configuration name="AlphabeticShiftKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Playground" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ArcadeMode.smooth_sailing.ReverseParenthesesKt" />
+      <option name="MAIN_CLASS_NAME" value="ArcadeMode.rains_of_reason.AlphabeticShiftKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayReplaceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Playground" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ArcadeMode.rains_of_reason.ArrayReplaceKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EvenDigitsOnlyKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Playground" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ArcadeMode.rains_of_reason.EvenDigitsOnlyKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Playground" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main.MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinesWeeperKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Playground" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ArcadeMode.island_of_knowledge.MinesWeeperKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CommonCharacterCount" />
-      <item itemvalue="Application.IsLucky" />
-      <item itemvalue="Application.OrderArray" />
-      <item itemvalue="Application.CyclicRotation" />
-      <item itemvalue="Kotlin.ArcadeMode.smooth_sailing.ReverseParenthesesKt" />
+      <item itemvalue="Kotlin.MainKt" />
+      <item itemvalue="Kotlin.MinesWeeperKt" />
+      <item itemvalue="Kotlin.ArrayReplaceKt" />
+      <item itemvalue="Kotlin.EvenDigitsOnlyKt" />
+      <item itemvalue="Kotlin.AlphabeticShiftKt" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OrderArray" />
-        <item itemvalue="Kotlin.ArcadeMode.smooth_sailing.ReverseParenthesesKt" />
-        <item itemvalue="Application.CyclicRotation" />
-        <item itemvalue="Application.IsLucky" />
-        <item itemvalue="Application.CommonCharacterCount" />
+        <item itemvalue="Kotlin.AlphabeticShiftKt" />
+        <item itemvalue="Kotlin.EvenDigitsOnlyKt" />
+        <item itemvalue="Kotlin.ArrayReplaceKt" />
+        <item itemvalue="Kotlin.MinesWeeperKt" />
+        <item itemvalue="Kotlin.MainKt" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -248,43 +217,89 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="1057" extended-state="6" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2550586" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Learn" order="6" weight="0.3299923" />
-      <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32908705" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946752" weight="0.39915073" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32953367" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32953367" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5005325" side_tool="true" weight="0.39915073" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49946752" weight="0.32908705" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info anchor="right" id="Maven" order="8" />
-    </layout>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$/JavaKotlinPlayground" />
     </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2859" y="400" width="808" height="710" key="#Plugins" timestamp="1603745478915">
+      <screen x="1920" y="0" width="2688" height="1512" />
+    </state>
+    <state x="2859" y="400" width="808" height="710" key="#Plugins/0.34.1920.1046/1920.0.2688.1512@1920.0.2688.1512" timestamp="1603745478915" />
+    <state x="3766" y="358" width="482" height="494" key="#xdebugger.evaluate" timestamp="1603808519356">
+      <screen x="1920" y="0" width="2688" height="1512" />
+    </state>
+    <state x="788" y="378" key="#xdebugger.evaluate/0.34.1920.1046/1920.0.2688.1512@0.34.1920.1046" timestamp="1603216813375" />
+    <state x="3766" y="358" width="482" height="494" key="#xdebugger.evaluate/0.34.1920.1046/1920.0.2688.1512@1920.0.2688.1512" timestamp="1603808519356" />
+    <state width="413" height="567" key="DebuggerActiveHint" timestamp="1603068064293">
+      <screen x="1920" y="0" width="2688" height="1512" />
+    </state>
+    <state width="413" height="567" key="DebuggerActiveHint/0.34.1920.1046/1920.0.2688.1512@1920.0.2688.1512" timestamp="1603068064293" />
+    <state width="2638" height="311" key="GridCell.Tab.0.bottom" timestamp="1603810850113">
+      <screen x="1920" y="0" width="2688" height="1512" />
+    </state>
+    <state width="1870" height="204" key="GridCell.Tab.0.bottom/0.34.1920.1046/1920.0.2688.1512@0.34.1920.1046" timestamp="1603218563823" />
+    <state width="2638" height="311" key="GridCell.Tab.0.bottom/0.34.1920.1046/1920.0.2688.1512@1920.0.2688.1512" timestamp="1603810850113" />
+    <state width="2638" height="311" key="GridCell.Tab.0.center" timestamp="1603810850113">
+      <screen x="1920" y="0" width="2688" height="1512" />
+    </state>
+    <state width="1870" height="204" key="GridCell.Tab.0.center/0.34.1920.1046/1920.0.2688.1512@0.34.1920.1046" timestamp="1603218563823" />
+    <state width="2638" height="311" key="GridCell.Tab.0.center/0.34.1920.1046/1920.0.2688.1512@1920.0.2688.1512" timestamp="1603810850113" />
+    <state width="2638" height="311" key="GridCell.Tab.0.left" timestamp="1603810850113">
+      <screen x="1920" y="0" width="2688" height="1512" />
+    </state>
+    <state width="1870" height="204" key="GridCell.Tab.0.left/0.34.1920.1046/1920.0.2688.1512@0.34.1920.1046" timestamp="1603218563823" />
+    <state width="2638" height="311" key="GridCell.Tab.0.left/0.34.1920.1046/1920.0.2688.1512@1920.0.2688.1512" timestamp="1603810850113" />
+    <state width="2638" height="311" key="GridCell.Tab.0.right" timestamp="1603810850113">
+      <screen x="1920" y="0" width="2688" height="1512" />
+    </state>
+    <state width="1870" height="204" key="GridCell.Tab.0.right/0.34.1920.1046/1920.0.2688.1512@0.34.1920.1046" timestamp="1603218563823" />
+    <state width="2638" height="311" key="GridCell.Tab.0.right/0.34.1920.1046/1920.0.2688.1512@1920.0.2688.1512" timestamp="1603810850113" />
+    <state width="2638" height="311" key="GridCell.Tab.1.bottom" timestamp="1603810850351">
+      <screen x="1920" y="0" width="2688" height="1512" />
+    </state>
+    <state width="1870" height="204" key="GridCell.Tab.1.bottom/0.34.1920.1046/1920.0.2688.1512@0.34.1920.1046" timestamp="1603218563823" />
+    <state width="2638" height="311" key="GridCell.Tab.1.bottom/0.34.1920.1046/1920.0.2688.1512@1920.0.2688.1512" timestamp="1603810850351" />
+    <state width="2638" height="311" key="GridCell.Tab.1.center" timestamp="1603810850351">
+      <screen x="1920" y="0" width="2688" height="1512" />
+    </state>
+    <state width="1870" height="204" key="GridCell.Tab.1.center/0.34.1920.1046/1920.0.2688.1512@0.34.1920.1046" timestamp="1603218563823" />
+    <state width="2638" height="311" key="GridCell.Tab.1.center/0.34.1920.1046/1920.0.2688.1512@1920.0.2688.1512" timestamp="1603810850351" />
+    <state width="2638" height="311" key="GridCell.Tab.1.left" timestamp="1603810850351">
+      <screen x="1920" y="0" width="2688" height="1512" />
+    </state>
+    <state width="1870" height="204" key="GridCell.Tab.1.left/0.34.1920.1046/1920.0.2688.1512@0.34.1920.1046" timestamp="1603218563823" />
+    <state width="2638" height="311" key="GridCell.Tab.1.left/0.34.1920.1046/1920.0.2688.1512@1920.0.2688.1512" timestamp="1603810850351" />
+    <state width="2638" height="311" key="GridCell.Tab.1.right" timestamp="1603810850351">
+      <screen x="1920" y="0" width="2688" height="1512" />
+    </state>
+    <state width="1870" height="204" key="GridCell.Tab.1.right/0.34.1920.1046/1920.0.2688.1512@0.34.1920.1046" timestamp="1603218563823" />
+    <state width="2638" height="311" key="GridCell.Tab.1.right/0.34.1920.1046/1920.0.2688.1512@1920.0.2688.1512" timestamp="1603810850351" />
+    <state x="2020" y="100" width="2488" height="1312" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1603072146593">
+      <screen x="1920" y="0" width="2688" height="1512" />
+    </state>
+    <state x="2020" y="100" width="2488" height="1312" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.34.1920.1046/1920.0.2688.1512@1920.0.2688.1512" timestamp="1603072146593" />
+    <state x="2956" y="467" width="615" height="578" key="find.popup" timestamp="1603123153046">
+      <screen x="1920" y="0" width="2688" height="1512" />
+    </state>
+    <state x="2956" y="467" width="615" height="578" key="find.popup/0.34.1920.1046/1920.0.2688.1512@1920.0.2688.1512" timestamp="1603123153046" />
+    <state x="2924" y="356" key="run.anything.popup" timestamp="1603236001712">
+      <screen x="1920" y="0" width="2688" height="1512" />
+    </state>
+    <state x="2924" y="356" key="run.anything.popup/0.34.1920.1046/1920.0.2688.1512@1920.0.2688.1512" timestamp="1603236001712" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -292,160 +307,101 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/PlaygroundJava.java</url>
           <line>51</line>
-          <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/PlaygroundJava.java</url>
           <line>69</line>
-          <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/CommonCharacterCount.java</url>
           <line>12</line>
-          <properties />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/OrderArray.java</url>
           <line>26</line>
-          <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/codibility/CyclicRotation.java</url>
           <line>18</line>
-          <properties />
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/OrderArray.java</url>
           <line>35</line>
-          <properties />
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/ArcadeMode/smooth_sailing/ReverseParenthesesKt.kt</url>
           <line>15</line>
-          <properties />
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/Main/Main.kt</url>
+          <line>31</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/Main/Main.kt</url>
+          <line>50</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/Main/Main.kt</url>
+          <line>46</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/Main/Main.kt</url>
+          <line>45</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/Main/Main.kt</url>
+          <line>111</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/Main/Main.kt</url>
+          <line>123</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/ArcadeMode/island_of_knowledge/BoxBlur.kt</url>
+          <line>24</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/ArcadeMode/rains_of_reason/ArrayReplace.kt</url>
+          <line>7</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/ArcadeMode/rains_of_reason/EvenDigitsOnly.kt</url>
+          <line>10</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/ArcadeMode/rains_of_reason/alphabeticShift.kt</url>
+          <line>10</line>
+          <option name="timeStamp" value="49" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="debuggerHistoryManager">
-    <expressions id="evaluateExpression">
-      <expression>
-        <expression-string>k%=size</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>s.charAt(i)-s.charAt(s.length()-1-i)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>s.charAt(s.length()-1-i)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>number.charAt(j)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>number.length()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>number.substring(n - 1)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>Integer.parseInt(number.substring(n - 1))</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>Integer.parseInt(number.substring(n))</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>Integer.parseInt(number.substring(n-1,1))</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Main.kt" />
-    <entry file="file://$PROJECT_DIR$/src/Playground.kt" />
-    <entry file="file://$PROJECT_DIR$/src/PlaygroundJava.java" />
-    <entry file="file://$PROJECT_DIR$/src/CommonCharacterCount.java" />
-    <entry file="file://$PROJECT_DIR$/src/IsLucky.java" />
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="283" column="20" lean-forward="true" selection-start-line="283" selection-start-column="20" selection-end-line="283" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MoneyChange.java" />
-    <entry file="file://$PROJECT_DIR$/src/codibility/OddArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="10" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/codibility/CyclicRotation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="50" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ArcadeMode/smooth_sailing/ReverseParentheses.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ArcadeMode/smooth_sailing/ReverseParenthesesKt.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="53" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ArcadeMode/island_of_knowledge/BoxBlur.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#607#616#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OrderArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <watches-manager>
+      <configuration name="JetRunConfigurationType">
+        <watch expression="matrix[n].slice(index..j + 1).filterIndexed { ind, b -&gt; i != n &amp;&amp; ind != j }" language="kotlin" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="masterDetails">
     <states>
