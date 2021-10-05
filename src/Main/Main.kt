@@ -1,5 +1,7 @@
 package Main
 
+import java.util.*
+
 fun main(args: Array<String>) {
     //print(alternatingSort(mutableListOf(1, 3, 5, 6, 4, 2)))
     //println(twoSum(intArrayOf(2,7,11,15), 9))
@@ -7,8 +9,11 @@ fun main(args: Array<String>) {
     //println(isPalindrome())
     //print(romanToInt())
     //println(rotateImage(mutableListOf(mutableListOf(1, 2, 3), mutableListOf(4, 5, 6), mutableListOf(7, 8, 9))))
-    theJanitor("abacaba")
-    print(ex())
+    //theJanitor("abacaba")
+    //println(knapsackLight(2, 5, 3, 4, 5))
+    //print(longestCommonPrefix(arrayOf("aa", "ab")))
+    //print(ex())
+    isValid()
 }
 
 /** take the first element from an array, then the last, then the second, then the last but one in an alternating way.
@@ -161,3 +166,74 @@ fun ex(array: MutableList<Int>? = mutableListOf(-5, 4, -2, 3, 1, -1, -6, -1, 0, 
     }
     return res
 }
+
+fun longestCommonPrefix(strs: Array<String>): String {
+
+    var result: String = ""
+    var temp = false
+    if (strs.isEmpty()) return result
+    for (c in strs.minByOrNull { it.length }.toString()) {
+        for (i in strs.indices) {
+            if (strs[i].startsWith(c, false)) {
+                temp = true
+                strs[i] = strs[i].removePrefix(c.toString())
+            } else {
+                temp = false
+                break
+            }
+        }
+        if (temp) {
+            result += c
+        } else {
+            break
+        }
+    }
+    return result
+}
+
+fun knapsackLight(value1: Int, weight1: Int, value2: Int, weight2: Int, maxW: Int): Int {
+    if (weight1 + weight2 <= maxW)
+        return value1 + value2
+
+    val hashmap = hashMapOf(value1 to weight1, value2 to weight2)
+    val item = hashmap.filter { it.value <= maxW }.maxByOrNull { it.key }
+    if (item != null)
+        return item.key
+    return 0
+}
+
+fun isValid(s: String = "()"): Boolean {
+    val pairs = hashMapOf('}' to '{', ']' to '[', ')' to '(')
+    val remain = Stack<Char>()
+
+    for (c in s) {
+        if (pairs.containsKey(c)) {
+
+            val char = if (remain.empty()) '?' else remain.pop()
+            if (char != pairs[c]) {
+                return false
+            }
+        } else {
+            remain.push(c)
+
+        }
+    }
+    return remain.isEmpty()
+}
+
+/*fun removeDuplicates(nums: IntArray): Int {
+    nums = nums.toSet().toIntArray()
+    if (nums.isEmpty())
+        return 0
+    var n = 0
+    for (i in 0..nums.size) {
+        if (nums[i] != nums[n]) {
+            ++n
+            nums[n] = nums[i]
+        }
+    }
+
+    return n
+}*/
+
+

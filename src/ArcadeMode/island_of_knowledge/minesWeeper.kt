@@ -3,6 +3,7 @@ package ArcadeMode.island_of_knowledge
 fun main(args: Array<String>) {
     print(minesweeper(mutableListOf(mutableListOf(false, false, false),
             mutableListOf(false, false, false))))
+
 }
 
 

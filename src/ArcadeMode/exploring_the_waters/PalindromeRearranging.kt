@@ -15,7 +15,6 @@ class PalindromeRearranging {
     fun palindromeRearranging(string: String): Boolean {
       var set : MutableSet<Char> = mutableSetOf()
       var sum = 0
-
       for (c in string) {
 
        set.add(c)

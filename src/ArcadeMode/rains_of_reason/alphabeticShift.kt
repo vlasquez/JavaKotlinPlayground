@@ -1,15 +1,13 @@
 package ArcadeMode.rains_of_reason
 
 fun main(args: Array<String>) {
-    print(alphabeticShift("aaaabbbccd"))
+    print(alphabeticShift("crazy"))
 }
 
 
 fun alphabeticShift(inputString: String): String {
     var result: String = ""
-    inputString.forEachIndexed { index, c ->
-        result += (c.toInt() + 1).toChar()
-        result = result.replace('{', 'a')
+    return inputString.fold(""){
+        str, c -> str + if(c=='z') 'a' else c.inc()
     }
-    return result
 }
