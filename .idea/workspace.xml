@@ -20,25 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5fe85a8-121e-46b0-a00d-115182e9283a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArcadeMode/rains_of_reason/ChessBoardCellColor.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main/conway.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main/test.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MetalPayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/geopagosTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__2_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__2_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArcadeMode/Through_the_fog/CircleOfNumbers.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArcadeMode/Through_the_fog/DepositProfit.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArcadeMode/Through_the_fog/absoluteValuesMinimization.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test4.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Playground.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Playground.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/exploring_the_waters/AddBorder$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/exploring_the_waters/AddBorder$Companion.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/exploring_the_waters/AddBorder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/exploring_the_waters/AddBorder.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/exploring_the_waters/AlternatingSums$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/exploring_the_waters/AlternatingSums$Companion.class" afterDir="false" />
@@ -47,30 +40,30 @@
       <change beforePath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/exploring_the_waters/AreSimilar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/exploring_the_waters/AreSimilar.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/exploring_the_waters/ArrayChange$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/exploring_the_waters/ArrayChange$Companion.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/exploring_the_waters/ArrayChange.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/exploring_the_waters/ArrayChange.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/exploring_the_waters/ArrayChangeJava.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/exploring_the_waters/ArrayChangeJava.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/exploring_the_waters/ArrayChangeJava.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/exploring_the_waters/PalindromeRearranging$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/exploring_the_waters/PalindromeRearranging$Companion.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/exploring_the_waters/PalindromeRearranging.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/exploring_the_waters/PalindromeRearranging.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/island_of_knowledge/ArrayMaximalAdjacentDiference$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/island_of_knowledge/ArrayMaximalAdjacentDiference$Companion.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/island_of_knowledge/ArrayMaximalAdjacentDiference.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/island_of_knowledge/ArrayMaximalAdjacentDiference.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/island_of_knowledge/AvoidObstacles$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/island_of_knowledge/AvoidObstacles$Companion.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/island_of_knowledge/AvoidObstacles.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/island_of_knowledge/AvoidObstacles.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/island_of_knowledge/AvoidObstaclesJava.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/island_of_knowledge/AvoidObstaclesJava.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/island_of_knowledge/AvoidObstaclesJava.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/island_of_knowledge/EquallyStrong$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/island_of_knowledge/EquallyStrong$Companion.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/island_of_knowledge/EquallyStrong.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/island_of_knowledge/EquallyStrong.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/island_of_knowledge/ISIPv4Address$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/island_of_knowledge/ISIPv4Address$Companion.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/island_of_knowledge/ISIPv4Address.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/island_of_knowledge/ISIPv4Address.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/smooth_sailing/CommonCharacterCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/smooth_sailing/CommonCharacterCount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/smooth_sailing/IsLucky.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/smooth_sailing/IsLucky.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/smooth_sailing/ReverseParentheses.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/smooth_sailing/ReverseParentheses.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/smooth_sailing/CommonCharacterCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/smooth_sailing/IsLucky.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/smooth_sailing/ReverseParentheses.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/smooth_sailing/ReverseParenthesesKt$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/smooth_sailing/ReverseParenthesesKt$Companion.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/smooth_sailing/ReverseParenthesesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/smooth_sailing/ReverseParenthesesKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/smooth_sailing/SortByHeight.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/smooth_sailing/SortByHeight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/ArcadeMode/smooth_sailing/SortByHeight.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Playground/InterviewPractice/FirstNotRepeatingCharacter$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/InterviewPractice/FirstNotRepeatingCharacter$Companion.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Playground/InterviewPractice/FirstNotRepeatingCharacter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/InterviewPractice/FirstNotRepeatingCharacter.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Playground/META-INF/Playground.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/META-INF/Playground.kotlin_module" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Playground/Main/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/Main/MainKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Playground/Main/PlaygroundJava.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/Main/PlaygroundJava.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Playground/Tournaments/AddDigits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/Tournaments/AddDigits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/Main/PlaygroundJava.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/Tournaments/AddDigits.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Playground/Tournaments/AlphabetSubsequence$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/Tournaments/AlphabetSubsequence$Companion.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Playground/Tournaments/AlphabetSubsequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/Tournaments/AlphabetSubsequence.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Playground/Tournaments/CircleOfNumbers$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/Tournaments/CircleOfNumbers$Companion.class" afterDir="false" />
@@ -89,54 +82,14 @@
       <change beforePath="$PROJECT_DIR$/out/production/Playground/Tournaments/SumUpDigits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/Tournaments/SumUpDigits.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Playground/Tournaments/TelephoneGame$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/Tournaments/TelephoneGame$Companion.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Playground/Tournaments/TelephoneGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/Tournaments/TelephoneGame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Playground/Tournaments/UniquePrime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/Tournaments/UniquePrime.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Playground/Tournaments/halvingSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/Tournaments/halvingSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Playground/codibility/BinaryGap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/codibility/BinaryGap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Playground/codibility/CodilityTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/codibility/CodilityTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Playground/codibility/OddArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Playground/codibility/OddArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArcadeMode/exploring_the_waters/AddBorder.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArcadeMode/exploring_the_waters/AddBorder.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArcadeMode/exploring_the_waters/AlternatingSums.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArcadeMode/exploring_the_waters/AlternatingSums.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArcadeMode/exploring_the_waters/AreSimilar.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArcadeMode/exploring_the_waters/AreSimilar.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArcadeMode/exploring_the_waters/ArrayChange.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArcadeMode/exploring_the_waters/ArrayChange.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArcadeMode/exploring_the_waters/ArrayChangeJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArcadeMode/exploring_the_waters/ArrayChangeJava.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArcadeMode/exploring_the_waters/PalindromeRearranging.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArcadeMode/exploring_the_waters/PalindromeRearranging.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArcadeMode/island_of_knowledge/ArrayMaximalAdjacentDiference.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArcadeMode/island_of_knowledge/ArrayMaximalAdjacentDiference.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArcadeMode/island_of_knowledge/AvoidObstacles.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArcadeMode/island_of_knowledge/AvoidObstacles.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArcadeMode/island_of_knowledge/AvoidObstaclesJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArcadeMode/island_of_knowledge/AvoidObstaclesJava.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArcadeMode/island_of_knowledge/BoxBlur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArcadeMode/island_of_knowledge/BoxBlur.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArcadeMode/island_of_knowledge/BoxBlur.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArcadeMode/island_of_knowledge/BoxBlur.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArcadeMode/island_of_knowledge/EquallyStrong.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArcadeMode/island_of_knowledge/EquallyStrong.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArcadeMode/island_of_knowledge/ISIPv4Address.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArcadeMode/island_of_knowledge/ISIPv4Address.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArcadeMode/island_of_knowledge/minesWeeper.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArcadeMode/island_of_knowledge/minesWeeper.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArcadeMode/rains_of_reason/ArrayReplace.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArcadeMode/rains_of_reason/ArrayReplace.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArcadeMode/rains_of_reason/EvenDigitsOnly.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArcadeMode/rains_of_reason/EvenDigitsOnly.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArcadeMode/rains_of_reason/VariableName.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArcadeMode/rains_of_reason/VariableName.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArcadeMode/rains_of_reason/alphabeticShift.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArcadeMode/rains_of_reason/alphabeticShift.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArcadeMode/smooth_sailing/CommonCharacterCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArcadeMode/smooth_sailing/CommonCharacterCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArcadeMode/smooth_sailing/IsLucky.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArcadeMode/smooth_sailing/IsLucky.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArcadeMode/smooth_sailing/ReverseParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArcadeMode/smooth_sailing/ReverseParentheses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArcadeMode/smooth_sailing/ReverseParenthesesKt.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArcadeMode/smooth_sailing/ReverseParenthesesKt.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArcadeMode/smooth_sailing/SortByHeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArcadeMode/smooth_sailing/SortByHeight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InterviewPractice/FirstNotRepeatingCharacter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewPractice/FirstNotRepeatingCharacter.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main/PlaygroundJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/PlaygroundJava.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OrderArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrderArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tournaments/AddDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tournaments/AddDigits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tournaments/AlphabetSubsequence.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tournaments/AlphabetSubsequence.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tournaments/CircleOfNumbers.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tournaments/CircleOfNumbers.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tournaments/CountIncreasingSequences.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tournaments/CountIncreasingSequences.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tournaments/CreateAnagram.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tournaments/CreateAnagram.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tournaments/Playground.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tournaments/Playground.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tournaments/SqrtSumOfSquares.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tournaments/SqrtSumOfSquares.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tournaments/StringsConstruction.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tournaments/StringsConstruction.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tournaments/SumUpDigits.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tournaments/SumUpDigits.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tournaments/TelephoneGame.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tournaments/TelephoneGame.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tournaments/UniquePrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tournaments/UniquePrime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tournaments/halvingSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tournaments/halvingSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codibility/BinaryGap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codibility/BinaryGap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codibility/CodilityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codibility/CodilityTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codibility/CyclicRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codibility/CyclicRotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codibility/OddArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codibility/OddArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/Tournaments/UniquePrime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/Tournaments/halvingSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/codibility/BinaryGap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/codibility/CodilityTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Playground/codibility/OddArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArcadeMode/rains_of_reason/ChessBoardCellColor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArcadeMode/rains_of_reason/ChessBoardCellColor.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/conway.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/conway.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/test.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,9 +119,15 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
-  <component name="ProjectCodeStyleSettingsMigration">
-    <option name="version" value="1" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
   <component name="ProjectId" id="1j4aUioHwxHobCSbcrcN4y1J9mA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -177,39 +136,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549039465407" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Autodesk/build-mobile/android" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.kotlinCompiler" />
-  </component>
-  <component name="RunManager" selected="Kotlin.ChessBoardCellColorKt">
-    <configuration name="LanguageTeacher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LanguageTeacher" />
-      <module name="Playground" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MetalPayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MetalPayTest" />
-      <module name="Playground" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="geopagosTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="geopagosTest" />
-      <module name="Playground" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/andres/Projects/personal/design-patterns-master",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager" selected="Kotlin.Test4Kt">
     <configuration name="ChessBoardCellColorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArcadeMode.rains_of_reason.ChessBoardCellColorKt" />
       <module name="Playground" />
@@ -217,29 +156,57 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main.TestKt" />
+    <configuration name="CircleOfNumbersKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArcadeMode.Through_the_fog.CircleOfNumbersKt" />
+      <module name="Playground" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DepositProfitKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArcadeMode.Through_the_fog.DepositProfitKt" />
+      <module name="Playground" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test3Kt" />
+      <module name="Playground" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test4Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test4Kt" />
       <module name="Playground" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LanguageTeacher" />
-      <item itemvalue="Application.MetalPayTest" />
-      <item itemvalue="Application.geopagosTest" />
-      <item itemvalue="Kotlin.TestKt" />
       <item itemvalue="Kotlin.ChessBoardCellColorKt" />
+      <item itemvalue="Kotlin.CircleOfNumbersKt" />
+      <item itemvalue="Kotlin.DepositProfitKt" />
+      <item itemvalue="Kotlin.Test3Kt" />
+      <item itemvalue="Kotlin.Test4Kt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Test4Kt" />
+        <item itemvalue="Kotlin.Test3Kt" />
+        <item itemvalue="Kotlin.DepositProfitKt" />
+        <item itemvalue="Kotlin.CircleOfNumbersKt" />
         <item itemvalue="Kotlin.ChessBoardCellColorKt" />
-        <item itemvalue="Kotlin.TestKt" />
-        <item itemvalue="Application.LanguageTeacher" />
-        <item itemvalue="Application.geopagosTest" />
-        <item itemvalue="Application.MetalPayTest" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-11.0.22-corretto-11.0.22-4caba194b151-bfa3237e" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -274,7 +241,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
@@ -384,11 +350,64 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/ArcadeMode/rains_of_reason/ChessBoardCellColor.kt</url>
-          <line>28</line>
+          <line>32</line>
           <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/ArcadeMode/rains_of_reason/ChessBoardCellColor.kt</url>
+          <line>18</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/ArcadeMode/rains_of_reason/ChessBoardCellColor.kt</url>
+          <line>22</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/ArcadeMode/Through_the_fog/CircleOfNumbers.kt</url>
+          <line>35</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/ArcadeMode/Through_the_fog/DepositProfit.kt</url>
+          <line>19</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/ArcadeMode/Through_the_fog/DepositProfit.kt</url>
+          <line>13</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/ArcadeMode/Through_the_fog/absoluteValuesMinimization.kt</url>
+          <line>19</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/test3.kt</url>
+          <line>43</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/test3.kt</url>
+          <line>34</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/ArcadeMode/Through_the_fog/absoluteValuesMinimization.kt</url>
+          <line>36</line>
+          <properties>
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="101" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="ListNode" memberName="val" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
